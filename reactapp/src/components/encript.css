@@ -1,0 +1,47 @@
+.body-encript {
+    padding: 2rem 2rem;
+    background-color:rgb(53, 156, 122);
+    border-radius: 1rem;
+    width: 45%;
+    margin:1rem;
+}
+.btn-encript{
+    background-color: rgb(95, 215, 245);
+    width: 25%;
+    height: 2rem;
+    border-radius: 2rem;
+    border-block-end-style: none;
+    font-size: large;
+    color:rgb(56, 31, 31);
+    font-family: serif;
+    border-style: none;
+    
+ 
+}
+.btn-encript:hover{
+    background-color:rgb(47, 97, 79);
+}
+.input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+.plain{
+    height:5rem;
+}
+
+.cipher-body{
+    margin-top:4rem;
+    margin: auto;
+    
+}
+.cipher-display{
+    background-color: aquamarine;
+    border-radius: 0.5rem;
+    height: 2rem;
+}
+
